@@ -11,6 +11,8 @@
 
 ### Step 1: Make the circuit as shown on [Circuito.io](https://www.circuito.io/app?components=513,8449,11028,360217)
 
+![Diagram](pics/diagram.png)
+
 When complete, it'll look something like this, (but hopefully less messy):
 
 ![Finished circuit](pics/circuit.jpg)
