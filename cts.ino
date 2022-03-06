@@ -36,7 +36,7 @@ void setup(void) {
 double currTime = 0;
 double typingStartTime = -1;
 int pollingRate = 500;
-int msToVibrate = 200; //1 second for now minsToMs(15);
+int msToVibrate = minsToMs(15); //15 minutes
 
 void loop() {
   currTime = currTime + pollingRate; //who needs a proper timer?
