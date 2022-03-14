@@ -1,11 +1,22 @@
 # CT-B-GONE
 
 ## Parts list:
-- ESP32
+- HiLetsGo ESP32 (OG) / TinyPICO (Air)
 - MPU 6050 accelerometer/gyro/thermometer
 - Vibration motor
 - (2) wristbands
 - Misc electronics
+
+## UPDATE
+
+###The CT-B-GONE Air is the smaller and more portable sequel to the CT-B-GONE.
+
+What makes the "Air" better:
+
+-Uses a TinyPOCO (very small ESP32 with built-in battery charging) instead of a generic ESP32
+-Uses a protoboard instead of a breadboard
+
+![CT-B-GONE Air](pics/photo_2022-03-14_08-42-25.jpg)
 
 ## How to build:
 
