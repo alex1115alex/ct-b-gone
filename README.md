@@ -17,6 +17,10 @@ What makes the "Air" better:
 
 - Uses a protoboard instead of a breadboard
 
+I may or may not make a 3D printable case for this in the future.
+
+![CT-B-GONE Air](pics/air.jpg)
+
 ![CT-B-GONE Air](pics/photo_2022-03-14_08-42-25.jpg)
 
 ## How to build:
