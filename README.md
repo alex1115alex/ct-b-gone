@@ -13,8 +13,9 @@
 
 What makes the "Air" better:
 
--Uses a TinyPOCO (very small ESP32 with built-in battery charging) instead of a generic ESP32
--Uses a protoboard instead of a breadboard
+- Uses a TinyPOCO (very small ESP32 with built-in battery charging) instead of a generic ESP32
+
+- Uses a protoboard instead of a breadboard
 
 ![CT-B-GONE Air](pics/photo_2022-03-14_08-42-25.jpg)
 
