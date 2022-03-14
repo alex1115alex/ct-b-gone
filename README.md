@@ -9,7 +9,7 @@
 
 ## UPDATE
 
-###The CT-B-GONE Air is the smaller and more portable sequel to the CT-B-GONE.
+### The CT-B-GONE Air is the smaller and more portable sequel to the CT-B-GONE.
 
 What makes the "Air" better:
 
